@@ -3,3 +3,7 @@
   background-color: darkblue !important;
   border: 5px solid orange !important;
 }
+
+* {
+  outline: 2px solid magenta !important;
+}
