@@ -1,5 +1,5 @@
 .cYHKzf {
   width: 240px;
-  background-color: darkblue;
-  border: 5px solid orange;
+  background-color: darkblue !important;
+  border: 5px solid orange !important;
 }
